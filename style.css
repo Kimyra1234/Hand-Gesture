@@ -1,0 +1,46 @@
+body
+{
+  color: white;
+  background: #011a53;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgba(255, 255, 255, 0.925);
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name_2  
+{
+  color: rgba(255, 255, 255, 0.925);
+  width: 350px;
+  height: 300px;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+font-size:25px;
+border-radius:10px;
+letter-spacing:10px;
+}
+#takeshot{
+color: #011a53;
+}
+#check{
+  color: #011a53;
+  }
+  #prediction{
+  background-color: cornflowerblue;
+  font-size: 22px;
+  border-radius: 10px;
+  }
